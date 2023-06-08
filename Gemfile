@@ -9,3 +9,7 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+gem 'sqlite'
+
+gem 'learn-co'
